@@ -6,7 +6,7 @@
    "dynamic_config" : 1,
    "generated_by" : "ExtUtils::MakeMaker version 7.18, CPAN::Meta::Converter version 2.150005",
    "license" : [
-      "unknown"
+      "Perl"
    ],
    "meta-spec" : {
       "url" : "http://search.cpan.org/perldoc?CPAN::Meta::Spec",
@@ -84,12 +84,12 @@
    "release_status" : "stable",
    "resources" : {
       "bugtracker" : {
-         "web" : "https://github.com/shawnlaffan/biodiverse/issues/"
+         "web" : "https://github.com/shawnlaffan/task-biodiverse-nogui/issues/"
       },
       "repository" : {
          "type" : "git",
-         "url" : "https://github.com/shawnlaffan/biodiverse.git",
-         "web" : "http://purl.org/biodiverse"
+         "url" : "https://github.com/shawnlaffan/task-biodiverse-nogui.git",
+         "web" : "https://github.com/shawnlaffan/task-biodiverse-nogui"
       }
    },
    "version" : "1.99006",

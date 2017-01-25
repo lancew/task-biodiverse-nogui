@@ -65,7 +65,7 @@ requires:
   parent: '0'
   rlib: '0'
 resources:
-  bugtracker: https://github.com/shawnlaffan/biodiverse/issues/
-  repository: https://github.com/shawnlaffan/biodiverse.git
+  bugtracker: https://github.com/shawnlaffan/task-biodiverse-nogui/issues/
+  repository: https://github.com/shawnlaffan/tash-biodiverse-nogui.git
 version: '1.99006'
 x_serialization_backend: 'CPAN::Meta::YAML version 0.018'
